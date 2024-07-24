@@ -2,29 +2,34 @@ body {
 	margin-top: 0;
 	margin-left: 0px;
 	margin-right: 0px;
-	background-color: #dca;
+	background-color: #acd;
 	text-rendering: optimizeLegibility;
 	/*background-color: #6ac;*/
 }
 
 * {
 	color: black;
-	font-family: "Ubuntu", "Helvetica Neue",
-	             Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-family: Sarabun, Helvetica, Arial, sans-serif;
+	line-height: 1.3;
 }
 
 a:visited {
-	color: #654;
+	color: #456;
 }
 
 h1 {
 	float: right;
 	margin: 0px;
+	letter-spacing: 0.15rem;
 }
 
 h1 img {
 	width: 0.8em;
 	margin-left: 0.2em;
+}
+
+h1, h2 {
+	text-shadow: 2px 2px #00000020;
 }
 
 #header {
@@ -34,7 +39,7 @@ h1 img {
 	padding-bottom: 20px;
 	padding-left: 30px;
 	padding-right: 30px;
-	background-color: #ba8;
+	background-color: #8ab;
 	/*background-color: #48a;*/
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
@@ -74,6 +79,7 @@ h2 {
 }
 
 .project .description {
+	margin-top: 5px;
 	padding-left: 20px;
 }
 

@@ -9,6 +9,7 @@ you'll find:
 * **[wadptr](https://github.com/fragglet/wadptr)** (WAD compression utility)
 * **[Vanilla Utilities](https://github.com/fragglet/vanilla-utilities)** (DOS Doom engine utilities)
 * **[DEH 9000](https://github.com/fragglet/deh9000)** (Python-based "programmer's Dehacked")
+* **[Squashware Doom](https://github.com/fragglet/squashware)** (cut-down version of shareware Doom for embedded systems)
 
 I also develop various other retro-computing things:
 

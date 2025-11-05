@@ -18,3 +18,4 @@ I also develop various other retro-computing things:
 * **[SDL Sopwith](https://github.com/fragglet/sdl-sopwith)** (modern port of the game [Sopwith](https://en.wikipedia.org/wiki/Sopwith_\(video_game\)))
 
 You'll find other things listed [on my website](https://soulsphere.org/) and [on my Github site](https://fragglet.github.io/).
+I also sometimes post videos [on my Youtube channel](https://www.youtube.com/user/fragglet).
